@@ -91,7 +91,7 @@ function Navbar() {
           </div>
         </div>
       </nav>
-    </div>
+    </div> 
   );
 }
  export default Navbar;
